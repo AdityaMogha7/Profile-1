@@ -105,7 +105,7 @@ label{
     font-family:"montserrat";
     color: #116A7B;
 }
-.back_button{
+.nav_button{
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 10px;
@@ -118,7 +118,7 @@ label{
     border-color: #0077b6;
     float: right;
 }
-.back_button:hover{
+.nav_button:hover{
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 10px;
