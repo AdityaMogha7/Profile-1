@@ -7,7 +7,11 @@ p{
     color: #66bfbf;
 }
 h1{
-    font-family:"Lemon Milk";
+    font-family:"montserrat";
+    color: #66bfbf;
+}
+h2{
+    font-family:"montserrat";
     color: #66bfbf;
 }
 hr{
@@ -49,9 +53,47 @@ th{
     font-size: 13px;
 }
 #name{
+    font-family:"Lemon Milk";
     font-size: 40px;
 }
 #name:hover{
     font-size: 40px;
     color: #116A7B;
+}
+label{
+    color:#116A7B;
+    font-family: "montserrat";
+}
+#submit{
+    background-color: #eaf6f6;
+    font-family: "montserrat";
+    color: #116A7B;
+    border-color:#116A7B ;
+    border-radius:10%;
+    padding: 7px;
+    filter: drop-shadow(3px 3px 7px black);
+}
+#submit:hover{
+    background-color: #116A7B;
+    font-family: "montserrat";
+    color: #eaf6f6;
+    border-color:#eaf6f6 ;
+    border-radius:10%;
+    padding: 7px;
+    filter: drop-shadow(3px 3px 7px black);
+}
+#textbox{
+    background-color: #F5F5F5;
+    font-family: "montserrat";
+    color: #116A7B;
+    border-color:#116A7B ;
+    border-radius:10%;
+}
+.form_table{
+    background-color: #eaf6f6;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 20px;
+    border-style: dotted;
+    border-width: 4px;
 }
