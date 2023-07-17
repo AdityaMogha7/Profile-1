@@ -26,6 +26,8 @@ table{
 }
 img{
     height: 175px;
+    border:3px solid #116A7B;
+    border-radius: 100%;
     filter: drop-shadow(3px 3px 10px black);
 }
 a{
