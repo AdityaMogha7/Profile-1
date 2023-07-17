@@ -1,0 +1,57 @@
+body {
+    background-color: #eaf6f6;
+}
+p{
+    font-size: 13px;
+    font-family: "Sora";
+    color: #66bfbf;
+}
+h1{
+    font-family:"Lemon Milk";
+    color: #66bfbf;
+}
+hr{
+    border-color: #D4D4D4;
+    border-style: none;
+    border-top-style: dotted;
+    width: 4%;
+    border-width: 5px;
+}
+table{
+    border-color: #66bfbf;
+}
+img{
+    height: 175px;
+    filter: drop-shadow(3px 3px 10px black);
+}
+a{
+    color:#116A7B;
+}
+h3{
+    font-family: "montserrat";
+    color: #66bfbf;
+}
+li{
+    font-size: 13px;
+    font-family: "Sora";
+    color: #116A7B;
+}
+td{
+    font-family: "Sora";
+    color: #116A7B;
+}
+th{
+    font-family: "Sora";
+    color: #116A7B;
+    font-size: 20px;
+}
+.skills{
+    font-size: 13px;
+}
+#name{
+    font-size: 40px;
+}
+#name:hover{
+    font-size: 40px;
+    color: #116A7B;
+}
