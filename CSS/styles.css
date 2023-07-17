@@ -105,3 +105,29 @@ label{
     font-family:"montserrat";
     color: #116A7B;
 }
+.back_button{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #ade8f4;
+    color: #0077b6;
+    font-family: "montserrat";
+    font-weight: bold;
+    font-size: 14px;
+    border-color: #0077b6;
+    float: right;
+}
+.back_button:hover{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #0077b6;
+    color: #ade8f4;
+    font-family: "montserrat";
+    font-weight: bold;
+    font-size: 14px;
+    border-color: #ade8f4;
+    float: right;
+}
