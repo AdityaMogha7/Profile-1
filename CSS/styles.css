@@ -1,66 +1,66 @@
 @font-face {
     font-family: "Lemon Milk";
-    src: url('Fonts/LemonMilk/LEMONMILK-Bold.otf');
+    src: url('./Fonts/LemonMilk/LEMONMILK-Bold.otf');
     font-weight: bold;
     font-style: normal;
 }
 @font-face {
     font-family: "Lemon Milk";
-    src: url('Fonts/LemonMilk/LEMONMILK-BoldItalic.otf');
+    src: url('./Fonts/LemonMilk/LEMONMILK-BoldItalic.otf');
     font-weight: bold;
     font-style: italic;
 }
 @font-face {
     font-family: "Lemon Milk";
-    src: url('Fonts/LemonMilk/LEMONMILK-Light.otf');
+    src: url('./Fonts/LemonMilk/LEMONMILK-Light.otf');
     font-weight: 100;
     font-style: normal;
 }
 @font-face {
     font-family: "Lemon Milk";
-    src: url('Fonts/LemonMilk/LEMONMILK-LightItalic.otf');
+    src: url('./Fonts/LemonMilk/LEMONMILK-LightItalic.otf');
     font-weight: 100;
     font-style: italic;
 }
 @font-face {
     font-family: "Lemon Milk";
-    src: url('Fonts/LemonMilk/LEMONMILK-Medium.otf');
+    src: url('./Fonts/LemonMilk/LEMONMILK-Medium.otf');
     font-weight:400;
     font-style: normal;
 }
 @font-face {
     font-family: "Lemon Milk";
-    src: url('Fonts/LemonMilk/LEMONMILK-MediumItalic.otf');
+    src: url('./Fonts/LemonMilk/LEMONMILK-MediumItalic.otf');
     font-weight:400;
     font-style: italic;
 }
 @font-face {
     font-family: "Lemon Milk";
-    src: url('Fonts/LemonMilk/LEMONMILK-Regular.otf');
+    src: url('./Fonts/LemonMilk/LEMONMILK-Regular.otf');
     font-weight:normal;
     font-style: normal;
 }
 @font-face {
     font-family: "Lemon Milk";
-    src: url('Fonts/LemonMilk/LEMONMILK-RegularItalic.otf');
+    src: url('./Fonts/LemonMilk/LEMONMILK-RegularItalic.otf');
     font-weight:normal;
     font-style: italic;
 }
 @font-face {
     font-family: "montserrat";
-    src: url('Fonts/Montserrat/montserrat.regular.ttf');
+    src: url('./Fonts/Montserrat/montserrat.regular.ttf');
     font-weight:normal;
     font-style: normal;
 }
 @font-face {
     font-family: "montserrat";
-    src: url('Fonts/Montserrat/montserrat.bold.ttf');
+    src: url('./Fonts/Montserrat/montserrat.bold.ttf');
     font-weight:bold;
     font-style: normal;
 }
 @font-face {
     font-family: "Sora";
-    src: url('Fonts/Sora/Sora-VariableFont_wght.ttf');
+    src: url('./Fonts/Sora/Sora-VariableFont_wght.ttf');
     font-weight: normal;
     font-style: normal;
 }
