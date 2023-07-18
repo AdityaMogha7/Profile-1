@@ -1,5 +1,23 @@
-@import url("https://fonts.googleapis.com/css?family=Montserrat");
-@import url("https://fonts.cdnfonts.com/css/lemonmilk");
+@font-face {
+    font-family: "Lemon Milk";
+    src: url('Fonts/LemonMilk/LEMONMILK-Bold.otf'),
+         url('Fonts/LemonMilk/LEMONMILK-BoldItalic.otf'),
+         url('Fonts/LemonMilk/LEMONMILK-Light.otf'),
+         url('Fonts/LemonMilk/LEMONMILK-LightItalic.otf'),
+         url('Fonts/LemonMilk/LEMONMILK-Medium.otf'),
+         url('Fonts/LemonMilk/LEMONMILK-MediumItalic.otf'),
+         url('Fonts/LemonMilk/LEMONMILK-Regular.otf'),
+         url('Fonts/LemonMilk/LEMONMILK-RegularItalic.otf');
+}
+@font-face {
+    font-family: "montserrat";
+    src: url('Fonts/Montserrat/Montserrat-Italic-VariableFont_wght.ttf'),
+         url('Fonts/Montserrat/Montserrat-VariableFont_wght.ttf');
+}
+@font-face {
+    font-family: "Sora";
+    src: url('Fonts/Sora/Sora-VariableFont_wght.ttf');
+}
 body {
     background-color: #eaf6f6;
 }
