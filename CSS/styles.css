@@ -65,31 +65,39 @@ th{
 label{
     color:#116A7B;
     font-family: "montserrat";
+    font-weight: bold;
 }
 #submit{
-    background-color: #eaf6f6;
+    background-image: linear-gradient(to right, #1FA2FF 0%, #12D8FA  51%, #1FA2FF  100%);
+    padding: 12px 30px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    border: none;
     font-family: "montserrat";
-    color: #116A7B;
-    border-color:#116A7B ;
-    border-radius:10%;
-    padding: 7px;
-    filter: drop-shadow(3px 3px 7px black);
+    font-weight: bold;
 }
+
 #submit:hover{
-    background-color: #116A7B;
-    font-family: "montserrat";
-    color: #eaf6f6;
-    border-color:#eaf6f6 ;
-    border-radius:10%;
-    padding: 7px;
-    filter: drop-shadow(3px 3px 7px black);
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
 }
 #textbox{
-    background-color: #F5F5F5;
-    font-family: "montserrat";
-    color: #116A7B;
-    border-color:#116A7B ;
-    border-radius:10%;
+    width: 100%;
+    padding: 6px 10px;
+    margin: 4px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom:2px solid#116A7B;
+    background-color: transparent;
+}
+#textbox:focus{
+    outline: none;
 }
 .form_table{
     background-color: #eaf6f6;
@@ -108,28 +116,23 @@ label{
     color: #116A7B;
 }
 .nav_button{
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    background-color: #ade8f4;
-    color: #0077b6;
+    background-image: linear-gradient(to right, #1FA2FF 0%, #12D8FA  51%, #1FA2FF  100%);
+    padding: 10px 30px;
+    text-align: center;
+    border-radius: 10px;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border: none;
     font-family: "montserrat";
     font-weight: bold;
-    font-size: 14px;
-    border-color: #0077b6;
     float: right;
 }
 .nav_button:hover{
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    background-color: #0077b6;
-    color: #ade8f4;
-    font-family: "montserrat";
-    font-weight: bold;
-    font-size: 14px;
-    border-color: #ade8f4;
-    float: right;
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
 }
+ 
