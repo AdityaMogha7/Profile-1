@@ -1,3 +1,11 @@
+                                                                                                    /* Colors Used
+                                                                                                    {
+                                                                                                        Background Color- #eaf6f6
+                                                                                                        Paragraph color- #66bfbf
+                                                                                                        Dark Heading Color- #116A7B
+
+                                                                                                    } */
+
 @font-face {
     font-family: "Lemon Milk";
     src: url('./Fonts/LemonMilk/LEMONMILK-Bold.otf');
@@ -90,7 +98,7 @@ hr{
 table{
     border-color: #66bfbf;
 }
-img{
+.profile-pic{
     height: 175px;
     border:3px solid #116A7B;
     border-radius: 100%;
@@ -201,4 +209,3 @@ label{
     color: #fff;
     text-decoration: none;
 }
- 
